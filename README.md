@@ -36,7 +36,7 @@ This program uses Go. The Go compiler is available from https://golang.org/.
 
 To install:
 
-    go get -u github.com/keperry/rdap/cmd/rdap
+    go get -u github.com/securityguy/rdap/cmd/rdap
 
 This will install the "rdap" binary in your $GOPATH/go/bin directory. Try running:
 
